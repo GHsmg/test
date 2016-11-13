@@ -1,0 +1,8 @@
+body{
+.imagcontainer {
+       position:relative
+       width:200px; 
+       height:200px; 
+       background-image: url(../image/France.jpg);
+ }
+}
